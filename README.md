@@ -21,19 +21,25 @@ Boosty – аналог Patreon сервиса Donation Alerts. Нацелен �
 ## **2.1 Программные интерфейсы**
 Веб-сервис использует ресурс Dog-Hole.dev, созданный для реализации алгоритмов поиска и подборки Язык программирования: Java API: Java SE, Java EE Фреймворки: Spring, Hibernate, Play, Lombok, Java Media Framework
 ## **2.2 Интерфейс пользователя**
+
 Канал
+
 ![image](https://user-images.githubusercontent.com/100530460/200387917-d2e6d73a-06c8-49e0-ad48-fc57f5aff004.png)
 
 Вход и регистрация
+
 ![image](https://user-images.githubusercontent.com/100530460/200387869-37d103d8-7117-4923-9c74-da6fa3c687c6.png)
 
 Профиль
+
 ![image](https://user-images.githubusercontent.com/100530460/200387825-9391ff83-f17a-4b9f-9ff7-4ab7c089dd60.png)
 
 Создание поста 
+
 ![image](https://user-images.githubusercontent.com/100530460/200387748-4ff38930-d84f-4163-93b0-c6b11f2c999f.png)
 
 Оплата
+
 ![image](https://user-images.githubusercontent.com/100530460/200387793-f1fcf85d-76b0-44ad-a40d-7b1675def42b.png)
 
 ## **2.3 Характеристики пользователей**
